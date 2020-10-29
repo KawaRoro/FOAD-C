@@ -1,0 +1,6 @@
+D:\laragon\www\CDA\FOAD-C#\CMFacture\bin\Debug\CMFacture.dll
+D:\laragon\www\CDA\FOAD-C#\CMFacture\bin\Debug\CMFacture.pdb
+D:\laragon\www\CDA\FOAD-C#\CMFacture\obj\Debug\CMFacture.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\CMFacture\obj\Debug\CMFacture.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\CMFacture\obj\Debug\CMFacture.dll
+D:\laragon\www\CDA\FOAD-C#\CMFacture\obj\Debug\CMFacture.pdb
