@@ -1,0 +1,13 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\bin\Debug\WFA_exo_003.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\bin\Debug\WFA_exo_003.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\bin\Debug\WFA_exo_003.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.Properties.Resources.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.csproj.GenerateResource.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.ListBox.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\bin\Debug\CLVerification.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\bin\Debug\CLVerification.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_exo_003\obj\Debug\WFA_exo_003.csproj.CopyComplete
