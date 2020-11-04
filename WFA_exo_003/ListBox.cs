@@ -129,20 +129,28 @@ namespace WFA_exo_003
             string newElementError = Verification.CheckName(tbNewElement.Text);
             bool beDuplicate = lbListElements.Items.Contains(tbNewElement.Text);
 
-            if((newElementError != "") & (btnAddValidate.Enabled = false))
+            if (tbNewElement.Text.ToString() != "")
             {
-                errorProvider.SetError(tbNewElement, newElementError);
-                btnAddValidate.Enabled = false;
-            }
-            else if (beDuplicate)
-            {
-                errorProvider.SetError(tbNewElement, "Le nouvel item est déjà présent dans la liste.");
-                btnAddValidate.Enabled = false;
+                if ((newElementError != "") & (btnAddValidate.Enabled = false))
+                {
+                    errorProvider.SetError(tbNewElement, newElementError);
+                    btnAddValidate.Enabled = false;
+                }
+                else if (beDuplicate)
+                {
+                    errorProvider.SetError(tbNewElement, "Le nouvel item est déjà présent dans la liste.");
+                    btnAddValidate.Enabled = false;
+                }
+                else
+                {
+                    errorProvider.SetError(tbNewElement, null);
+                    btnAddValidate.Enabled = true;
+                }
             }
             else
             {
                 errorProvider.SetError(tbNewElement, null);
-                btnAddValidate.Enabled = true;
+                btnAddValidate.Enabled = false;
             }
 
         }
@@ -219,23 +227,14 @@ namespace WFA_exo_003
 
             if (listItemCount != 0)
             {
-                tbIndexElement.Text = Convert.ToString(lbListElements.SelectedIndex + 1); //  + 1
-                tblSelectedIndex.Text = Convert.ToString(lbListElements.SelectedIndex + 1); //  + 1
-                tblSelectedText.Text = lbListElements.SelectedItem.ToString();
+                if (lbListElements.SelectedIndex != -1)
+                { 
+                    tbIndexElement.Text = Convert.ToString(lbListElements.SelectedIndex + 1); //  + 1
+                    tblSelectedIndex.Text = Convert.ToString(lbListElements.SelectedIndex + 1); //  + 1
+                    tblSelectedText.Text = lbListElements.SelectedItem.ToString();
+                }
             }
-            else
-            {
-                errorProvider.SetError(tbNewElement, "-1");
-            }
-
-            /*if (lbListElements.SelectedIndex == -1)
-            {
-                errorProvider.SetError(tbNewElement, "-1");
-            }
-            else
-            {
-
-            }*/
+            
         }
 
         private void tblItemCountSelected_TextChanged(object sender, EventArgs e)
