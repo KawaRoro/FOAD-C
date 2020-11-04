@@ -4,3 +4,9 @@ D:\laragon\www\CDA\FOAD-C#\CLVerification\obj\Debug\CLVerification.csprojAssembl
 D:\laragon\www\CDA\FOAD-C#\CLVerification\obj\Debug\CLVerification.csproj.CoreCompileInputs.cache
 D:\laragon\www\CDA\FOAD-C#\CLVerification\obj\Debug\CLVerification.dll
 D:\laragon\www\CDA\FOAD-C#\CLVerification\obj\Debug\CLVerification.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\bin\Debug\CLVerification.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\bin\Debug\CLVerification.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\obj\Debug\CLVerification.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\obj\Debug\CLVerification.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\obj\Debug\CLVerification.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CLVerification\obj\Debug\CLVerification.pdb

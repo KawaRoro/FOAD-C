@@ -128,7 +128,7 @@
             // 
             // btnSelectIndex
             // 
-            this.btnSelectIndex.Location = new System.Drawing.Point(335, 100);
+            this.btnSelectIndex.Location = new System.Drawing.Point(348, 100);
             this.btnSelectIndex.Name = "btnSelectIndex";
             this.btnSelectIndex.Size = new System.Drawing.Size(146, 22);
             this.btnSelectIndex.TabIndex = 17;
@@ -138,7 +138,7 @@
             // 
             // btnEmptyList
             // 
-            this.btnEmptyList.Location = new System.Drawing.Point(335, 133);
+            this.btnEmptyList.Location = new System.Drawing.Point(348, 133);
             this.btnEmptyList.Name = "btnEmptyList";
             this.btnEmptyList.Size = new System.Drawing.Size(146, 22);
             this.btnEmptyList.TabIndex = 18;
@@ -179,7 +179,8 @@
             // tblItemCountSelected
             // 
             this.tblItemCountSelected.BackColor = System.Drawing.SystemColors.Control;
-            this.tblItemCountSelected.Location = new System.Drawing.Point(364, 240);
+            this.tblItemCountSelected.Enabled = false;
+            this.tblItemCountSelected.Location = new System.Drawing.Point(377, 240);
             this.tblItemCountSelected.Name = "tblItemCountSelected";
             this.tblItemCountSelected.Size = new System.Drawing.Size(81, 20);
             this.tblItemCountSelected.TabIndex = 23;
@@ -188,7 +189,8 @@
             // tblSelectedIndex
             // 
             this.tblSelectedIndex.BackColor = System.Drawing.SystemColors.Control;
-            this.tblSelectedIndex.Location = new System.Drawing.Point(364, 295);
+            this.tblSelectedIndex.Enabled = false;
+            this.tblSelectedIndex.Location = new System.Drawing.Point(377, 295);
             this.tblSelectedIndex.Name = "tblSelectedIndex";
             this.tblSelectedIndex.Size = new System.Drawing.Size(81, 20);
             this.tblSelectedIndex.TabIndex = 24;
@@ -197,7 +199,8 @@
             // tblSelectedText
             // 
             this.tblSelectedText.BackColor = System.Drawing.SystemColors.Control;
-            this.tblSelectedText.Location = new System.Drawing.Point(364, 347);
+            this.tblSelectedText.Enabled = false;
+            this.tblSelectedText.Location = new System.Drawing.Point(377, 347);
             this.tblSelectedText.Name = "tblSelectedText";
             this.tblSelectedText.Size = new System.Drawing.Size(81, 20);
             this.tblSelectedText.TabIndex = 25;
@@ -240,6 +243,7 @@
             this.Controls.Add(this.lNewElement);
             this.Controls.Add(this.label1);
             this.Name = "ListBox";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Les listes et leurs propriétés";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).EndInit();
             this.ResumeLayout(false);
