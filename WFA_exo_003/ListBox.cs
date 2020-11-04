@@ -28,8 +28,8 @@ namespace WFA_exo_003
         private void btnAddValidate_Click(object sender, EventArgs e)
         {
             lbListElements.Items.Add(tbNewElement.Text);
-            tblSelectedText.Text = tbNewElement.Text;
-            tblSelectedIndex.Text = lbListElements.Items.Count.ToString();
+            //tblSelectedText.Text = tbNewElement.Text;
+            //tblSelectedIndex.Text = lbListElements.Items.Count.ToString();
             tblItemCountSelected.Text = lbListElements.Items.Count.ToString();
 
             // Buttons
