@@ -18,6 +18,7 @@ namespace WFA_exo_003
             InitializeComponent();
 
             tbIndexElement.BackColor = SystemColors.Control;
+            tbIndexElement.Enabled = false;
             lbListElements.BackColor = SystemColors.Control;
             btnAddValidate.Enabled = false;
             btnSelectIndex.Enabled = false;
@@ -48,6 +49,7 @@ namespace WFA_exo_003
                 tbIndexElement_TextChanged(sender, e);
             }
             tbIndexElement.BackColor = Color.White;
+            tbIndexElement.Enabled = true;
             lbListElements.BackColor = Color.White;
         }
 
@@ -105,7 +107,6 @@ namespace WFA_exo_003
             // Buttons
             btnAddValidate.Enabled = false;
             btnSelectIndex.Enabled = false;
-            //Enabled = false;
             btnEmptyList.Enabled = false;
 
             // List Items
@@ -119,6 +120,8 @@ namespace WFA_exo_003
             tblSelectedIndex.Clear();
             tblSelectedText.Clear();
 
+            // Text to desactivate
+            tbIndexElement.Enabled = false;
             tbIndexElement.BackColor = SystemColors.Control;
             lbListElements.BackColor = SystemColors.Control;
             errorProvider.SetError(tbIndexElement, null);
@@ -193,6 +196,7 @@ namespace WFA_exo_003
                             {
                                 errorProvider.SetError(tbIndexElement, null);
                                 btnSelectIndex.Enabled = true;
+                                tbIndexElement.Enabled = true;
 
                                 /*lbListElements.SetSelected(NbRealItemCountSelect, true);
                                 tblSelectedIndex.Text = Convert.ToString(NbItemCountSelect);
@@ -204,6 +208,7 @@ namespace WFA_exo_003
                             errorProvider.SetError(tbIndexElement, "Veuillez insérer un item");
                             btnSelectIndex.Enabled = false;
                             tbIndexElement.BackColor = SystemColors.Control;
+                            tbIndexElement.Enabled = false;
                         }
 
 
