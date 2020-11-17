@@ -1,0 +1,10 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\bin\Debug\WFA_Defilement.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\bin\Debug\WFA_Defilement.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\bin\Debug\WFA_Defilement.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.Properties.Resources.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.csproj.GenerateResource.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Defilement\obj\Debug\WFA_Defilement.Defilement.resources
