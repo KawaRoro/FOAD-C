@@ -1,0 +1,10 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\WFA_Loan.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\WFA_Loan.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\WFA_Loan.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.FormLoan.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.Properties.Resources.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.GenerateResource.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.pdb
