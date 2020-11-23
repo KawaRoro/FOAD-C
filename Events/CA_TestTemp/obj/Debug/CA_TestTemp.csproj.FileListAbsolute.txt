@@ -1,0 +1,10 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\bin\Debug\CA_TestTemp.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\bin\Debug\CA_TestTemp.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\bin\Debug\CA_TestTemp.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\bin\Debug\CL_Temperature.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\bin\Debug\CL_Temperature.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\obj\Debug\CA_TestTemp.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\obj\Debug\CA_TestTemp.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\obj\Debug\CA_TestTemp.csproj.CopyComplete
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\obj\Debug\CA_TestTemp.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_TestTemp\obj\Debug\CA_TestTemp.pdb

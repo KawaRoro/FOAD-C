@@ -1,0 +1,5 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WFA_ReactEvent\obj\Debug\WFA_ReactEvent.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WFA_ReactEvent\obj\Debug\WindowsFormsAppReagitAUnEvenement.FormPolitesse.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WFA_ReactEvent\obj\Debug\WindowsFormsAppReagitAUnEvenement.Properties.Resources.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WFA_ReactEvent\obj\Debug\WFA_ReactEvent.csproj.GenerateResource.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WFA_ReactEvent\obj\Debug\WFA_ReactEvent.csproj.CoreCompileInputs.cache

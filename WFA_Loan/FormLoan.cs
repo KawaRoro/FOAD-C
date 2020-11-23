@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CM_Customer;
 
 namespace WFA_Loan
 {
@@ -17,17 +18,7 @@ namespace WFA_Loan
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
+        private void textBoxName_TextChanged(object sender, EventArgs e)
         {
 
         }

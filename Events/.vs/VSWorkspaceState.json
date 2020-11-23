@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CA_EventTest",
+    "\\CA_Human",
+    "\\CA_Timer",
+    "\\CA_Weather",
+    "\\CL_Weather",
+    "\\WFA_Events"
+  ],
+  "SelectedNode": "\\WFA_Events\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

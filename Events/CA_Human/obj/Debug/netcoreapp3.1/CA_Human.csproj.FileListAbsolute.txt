@@ -1,0 +1,13 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.deps.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.runtimeconfig.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.runtimeconfig.dev.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\bin\Debug\netcoreapp3.1\CA_Human.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.AssemblyInfoInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.AssemblyInfo.cs
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Human\obj\Debug\netcoreapp3.1\CA_Human.genruntimeconfig.cache

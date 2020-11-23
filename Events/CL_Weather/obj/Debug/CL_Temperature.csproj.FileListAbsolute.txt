@@ -1,0 +1,6 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\bin\Debug\CL_Temperature.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\bin\Debug\CL_Temperature.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\obj\Debug\CL_Temperature.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\obj\Debug\CL_Temperature.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\obj\Debug\CL_Temperature.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CL_Weather\obj\Debug\CL_Temperature.pdb

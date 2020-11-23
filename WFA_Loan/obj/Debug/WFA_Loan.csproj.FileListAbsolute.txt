@@ -8,3 +8,6 @@ D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.GenerateRes
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.CoreCompileInputs.cache
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.exe
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CM_Customer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CM_Customer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.CopyComplete

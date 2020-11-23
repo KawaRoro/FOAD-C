@@ -1,0 +1,7 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\bin\Debug\ConsoleAppHumain.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\bin\Debug\ConsoleAppHumain.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\bin\Debug\ConsoleAppHumain.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\obj\Debug\ConsoleAppHumain.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\obj\Debug\ConsoleAppHumain.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\obj\Debug\ConsoleAppHumain.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\ConsoleAppHumain\obj\Debug\ConsoleAppHumain.pdb

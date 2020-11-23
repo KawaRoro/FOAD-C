@@ -1,0 +1,13 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.deps.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.runtimeconfig.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.runtimeconfig.dev.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\bin\Debug\netcoreapp3.1\CA_Weather.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.AssemblyInfoInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.AssemblyInfo.cs
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Weather\obj\Debug\netcoreapp3.1\CA_Weather.genruntimeconfig.cache

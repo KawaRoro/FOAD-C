@@ -1,0 +1,6 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CM_Customer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CM_Customer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.pdb

@@ -1,0 +1,13 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.deps.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.runtimeconfig.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.runtimeconfig.dev.json
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\bin\Debug\netcoreapp3.1\CA_Timer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.AssemblyInfoInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.AssemblyInfo.cs
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\CA_Timer\obj\Debug\netcoreapp3.1\CA_Timer.genruntimeconfig.cache

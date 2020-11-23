@@ -1,0 +1,12 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\bin\Debug\WFA_Events.exe.config
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\bin\Debug\WFA_Events.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\bin\Debug\WFA_Events.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\bin\Debug\OpenHardwareMonitorLib.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.FormEvents.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.Properties.Resources.resources
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.csproj.GenerateResource.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.csproj.CopyComplete
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.exe
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\Events\WFA_Events\obj\Debug\WFA_Events.csprojAssemblyReference.cache
