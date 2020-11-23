@@ -1,9 +1,0 @@
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WF_ControlLibrary.csprojAssemblyReference.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WindowsFormsControlLibrary.UserControl1.resources
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WindowsFormsControlLibrary.UserControlDisBonjour.resources
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WF_ControlLibrary.csproj.GenerateResource.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WF_ControlLibrary.csproj.CoreCompileInputs.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\WF_ControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb

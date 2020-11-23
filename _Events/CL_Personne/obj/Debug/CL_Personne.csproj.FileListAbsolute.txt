@@ -1,6 +1,0 @@
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\bin\Debug\ClassLibraryPersonne.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\bin\Debug\ClassLibraryPersonne.pdb
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\obj\Debug\CL_Personne.csprojAssemblyReference.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\obj\Debug\CL_Personne.csproj.CoreCompileInputs.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\obj\Debug\ClassLibraryPersonne.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\_Events\CL_Personne\obj\Debug\ClassLibraryPersonne.pdb

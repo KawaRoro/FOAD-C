@@ -1,6 +1,0 @@
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\bin\Debug\CLTemperature.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\bin\Debug\CLTemperature.pdb
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\obj\Debug\CLTemperature.csprojAssemblyReference.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\obj\Debug\CLTemperature.csproj.CoreCompileInputs.cache
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\obj\Debug\CLTemperature.dll
-D:\laragon\www\CDA\FOAD-C#\FOAD-C\ClassLibraryMeteo\obj\Debug\CLTemperature.pdb
