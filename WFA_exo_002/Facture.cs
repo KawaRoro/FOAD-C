@@ -47,6 +47,7 @@ namespace WFA_exo_002
                 if ((tbName.Text != "") & tbDateExact & tbAmountExact & tbZipCodeExact)
                 {
                     MessageBox.Show(validationOutput, "Facture valide");
+
                     ClassMetierFacture classMetierFacture = new ClassMetierFacture(tbName.Text, resultDateExactValue, resultAmountExactValue, resultZipCodeExactValue); // resultNameExactValue
                     classMetierFacture.ToString();
                     DeleteAllFields();

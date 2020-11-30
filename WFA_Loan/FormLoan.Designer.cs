@@ -47,9 +47,10 @@ namespace WFA_Loan
             this.labelNbMensuality = new System.Windows.Forms.Label();
             this.labelRefund = new System.Windows.Forms.Label();
             this.labelAmount = new System.Windows.Forms.Label();
-            this.errorProviderName = new System.Windows.Forms.ErrorProvider(this.components);
+            this.errorProvider = new System.Windows.Forms.ErrorProvider(this.components);
+            this.textBoxTimeByMonth = new System.Windows.Forms.TextBox();
             this.groupBoxInterestRate.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.errorProviderName)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).BeginInit();
             this.SuspendLayout();
             // 
             // labelName
@@ -65,7 +66,7 @@ namespace WFA_Loan
             // 
             this.textBoxName.Location = new System.Drawing.Point(208, 40);
             this.textBoxName.Name = "textBoxName";
-            this.textBoxName.Size = new System.Drawing.Size(230, 20);
+            this.textBoxName.Size = new System.Drawing.Size(237, 20);
             this.textBoxName.TabIndex = 1;
             this.textBoxName.TextChanged += new System.EventHandler(this.textBoxName_TextChanged);
             // 
@@ -73,8 +74,9 @@ namespace WFA_Loan
             // 
             this.textBoxAmountLoan.Location = new System.Drawing.Point(208, 84);
             this.textBoxAmountLoan.Name = "textBoxAmountLoan";
-            this.textBoxAmountLoan.Size = new System.Drawing.Size(230, 20);
+            this.textBoxAmountLoan.Size = new System.Drawing.Size(237, 20);
             this.textBoxAmountLoan.TabIndex = 3;
+            this.textBoxAmountLoan.TextChanged += new System.EventHandler(this.textBoxAmountLoan_TextChanged);
             // 
             // labelAmountLoan
             // 
@@ -96,10 +98,15 @@ namespace WFA_Loan
             // 
             // hScrollBarTimeInMonth
             // 
-            this.hScrollBarTimeInMonth.Location = new System.Drawing.Point(208, 130);
+            this.hScrollBarTimeInMonth.LargeChange = 1;
+            this.hScrollBarTimeInMonth.Location = new System.Drawing.Point(265, 130);
+            this.hScrollBarTimeInMonth.Maximum = 180;
+            this.hScrollBarTimeInMonth.Minimum = 1;
             this.hScrollBarTimeInMonth.Name = "hScrollBarTimeInMonth";
-            this.hScrollBarTimeInMonth.Size = new System.Drawing.Size(230, 17);
+            this.hScrollBarTimeInMonth.Size = new System.Drawing.Size(180, 17);
             this.hScrollBarTimeInMonth.TabIndex = 5;
+            this.hScrollBarTimeInMonth.Value = 1;
+            this.hScrollBarTimeInMonth.Scroll += new System.Windows.Forms.ScrollEventHandler(this.hScrollBarTimeInMonth_Scroll);
             // 
             // groupBoxInterestRate
             // 
@@ -112,6 +119,7 @@ namespace WFA_Loan
             this.groupBoxInterestRate.TabIndex = 3;
             this.groupBoxInterestRate.TabStop = false;
             this.groupBoxInterestRate.Text = "Taux d\'intérêt";
+            this.groupBoxInterestRate.Enter += new System.EventHandler(this.groupBoxInterestRate_Enter);
             // 
             // radioButton9
             // 
@@ -147,6 +155,7 @@ namespace WFA_Loan
             this.radioButton7.Tag = "7";
             this.radioButton7.Text = "7%";
             this.radioButton7.UseVisualStyleBackColor = true;
+            this.radioButton7.CheckedChanged += new System.EventHandler(this.radioButton7_CheckedChanged);
             // 
             // buttonSave
             // 
@@ -156,6 +165,7 @@ namespace WFA_Loan
             this.buttonSave.TabIndex = 6;
             this.buttonSave.Text = "Save";
             this.buttonSave.UseVisualStyleBackColor = true;
+            this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
             // buttonReset
             // 
@@ -165,6 +175,7 @@ namespace WFA_Loan
             this.buttonReset.TabIndex = 7;
             this.buttonReset.Text = "Reset";
             this.buttonReset.UseVisualStyleBackColor = true;
+            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
             // 
             // listBoxPeriodicity
             // 
@@ -173,6 +184,7 @@ namespace WFA_Loan
             this.listBoxPeriodicity.Name = "listBoxPeriodicity";
             this.listBoxPeriodicity.Size = new System.Drawing.Size(162, 95);
             this.listBoxPeriodicity.TabIndex = 8;
+            this.listBoxPeriodicity.SelectedIndexChanged += new System.EventHandler(this.listBoxPeriodicity_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -187,7 +199,7 @@ namespace WFA_Loan
             // 
             this.labelNbMensuality.AutoSize = true;
             this.labelNbMensuality.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-            this.labelNbMensuality.Location = new System.Drawing.Point(356, 228);
+            this.labelNbMensuality.Location = new System.Drawing.Point(332, 228);
             this.labelNbMensuality.Name = "labelNbMensuality";
             this.labelNbMensuality.Size = new System.Drawing.Size(24, 25);
             this.labelNbMensuality.TabIndex = 10;
@@ -199,9 +211,10 @@ namespace WFA_Loan
             this.labelRefund.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
             this.labelRefund.Location = new System.Drawing.Point(386, 228);
             this.labelRefund.Name = "labelRefund";
-            this.labelRefund.Size = new System.Drawing.Size(172, 25);
+            this.labelRefund.Size = new System.Drawing.Size(186, 25);
             this.labelRefund.TabIndex = 11;
-            this.labelRefund.Text = "remboursements";
+            this.labelRefund.Text = "remboursement(s)";
+            this.labelRefund.Click += new System.EventHandler(this.labelRefund_Click);
             // 
             // labelAmount
             // 
@@ -213,15 +226,26 @@ namespace WFA_Loan
             this.labelAmount.TabIndex = 12;
             this.labelAmount.Text = "0 $";
             // 
-            // errorProviderName
+            // errorProvider
             // 
-            this.errorProviderName.ContainerControl = this;
+            this.errorProvider.ContainerControl = this;
+            // 
+            // textBoxTimeByMonth
+            // 
+            this.textBoxTimeByMonth.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.textBoxTimeByMonth.Location = new System.Drawing.Point(208, 129);
+            this.textBoxTimeByMonth.Name = "textBoxTimeByMonth";
+            this.textBoxTimeByMonth.Size = new System.Drawing.Size(41, 20);
+            this.textBoxTimeByMonth.TabIndex = 14;
+            this.textBoxTimeByMonth.Text = "1";
+            this.textBoxTimeByMonth.TextChanged += new System.EventHandler(this.textBoxTimeByMonth_TextChanged);
             // 
             // FormLoan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(734, 359);
+            this.Controls.Add(this.textBoxTimeByMonth);
             this.Controls.Add(this.labelAmount);
             this.Controls.Add(this.labelRefund);
             this.Controls.Add(this.labelNbMensuality);
@@ -241,7 +265,7 @@ namespace WFA_Loan
             this.Text = "Emprunter";
             this.groupBoxInterestRate.ResumeLayout(false);
             this.groupBoxInterestRate.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.errorProviderName)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -266,7 +290,8 @@ namespace WFA_Loan
         private System.Windows.Forms.Label labelNbMensuality;
         private System.Windows.Forms.Label labelRefund;
         private System.Windows.Forms.Label labelAmount;
-        private System.Windows.Forms.ErrorProvider errorProviderName;
+        private System.Windows.Forms.ErrorProvider errorProvider;
+        private System.Windows.Forms.TextBox textBoxTimeByMonth;
     }
 }
 

@@ -1,0 +1,9 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CM_Customer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CM_Customer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CL_Periodicity.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CL_Periodicity.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_CustomerLoan.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_CustomerLoan.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_CustomerLoan.csproj.CopyComplete
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.pdb

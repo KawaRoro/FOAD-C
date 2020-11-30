@@ -1,0 +1,6 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\bin\Debug\CL_Check.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\bin\Debug\CL_Check.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\obj\Debug\CL_Check.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\obj\Debug\CL_Check.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\obj\Debug\CL_Check.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Check\obj\Debug\CL_Check.csprojAssemblyReference.cache

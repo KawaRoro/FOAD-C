@@ -4,3 +4,6 @@ D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.csprojAssemb
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.csproj.CoreCompileInputs.cache
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.dll
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CL_Periodicity.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\bin\Debug\CL_Periodicity.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CM_Customer\obj\Debug\CM_Customer.csproj.CopyComplete

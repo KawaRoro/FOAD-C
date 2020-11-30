@@ -11,3 +11,7 @@ D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.pdb
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CM_Customer.dll
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CM_Customer.pdb
 D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\obj\Debug\WFA_Loan.csproj.CopyComplete
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CL_Check.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CL_Check.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CL_Periodicity.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\WFA_Loan\bin\Debug\CL_Periodicity.pdb

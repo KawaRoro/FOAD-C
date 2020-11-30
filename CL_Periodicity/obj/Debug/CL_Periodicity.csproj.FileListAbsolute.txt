@@ -1,0 +1,6 @@
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\bin\Debug\CL_Periodicity.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\bin\Debug\CL_Periodicity.pdb
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\obj\Debug\CL_Periodicity.csprojAssemblyReference.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\obj\Debug\CL_Periodicity.csproj.CoreCompileInputs.cache
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\obj\Debug\CL_Periodicity.dll
+D:\laragon\www\CDA\FOAD-C#\FOAD-C\CL_Periodicity\obj\Debug\CL_Periodicity.pdb
