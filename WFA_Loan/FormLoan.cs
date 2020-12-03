@@ -71,16 +71,11 @@ namespace WFA_Loan
             buttonSave.Enabled = false;
         }
 
-        //hScrollBarTimeInMonth
+        /// <summary>
+        /// Update the view and refresh the customeroan information
+        /// </summary>
         public void UpdateAllFields()
         {
-
-            //hScrollBarTimeInMonth.Value = customerLoan.TimeInMonth;
-            //labelNbMensuality.Text = customerLoan.NumberOfRefund().ToString();
-            //textBoxTimeByMonth.Text = customerLoan.NumberOfRefund().ToString();
-            //customerLoan.TimeInMonth = this.hScrollBarTimeInMonth.Value;
-            //textBoxTimeByMonth.Text = this.hScrollBarTimeInMonth.Value.ToString();
-
             int periodicity = Convert.ToInt32(customerLoan.Periodicity);
             float saveCapital = customerLoan.BorrowCapital;
             float.TryParse(textBoxAmountLoan.Text, out float calculateCapital);
@@ -153,6 +148,9 @@ namespace WFA_Loan
 
         }
 
+        /// <summary>
+        /// Use the Class Library check info for check all fields
+        /// </summary>
         private void CheckAllFields()
         {
             // Check each field
@@ -204,6 +202,11 @@ namespace WFA_Loan
             }
         }
 
+        /// <summary>
+        /// Check error for the Amount of a loan
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void textBoxAmountLoan_TextChanged(object sender, EventArgs e)
         {
             buttonReset.Enabled = true;
@@ -224,16 +227,32 @@ namespace WFA_Loan
             }
         }
 
+        /// <summary>
+        /// When hScrollBarTimeInMonth change -> update the view
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void hScrollBarTimeInMonth_Scroll(object sender, ScrollEventArgs e)
         {
             this.UpdateAllFields();
         }
 
+        /// <summary>
+        /// When textBoxTimeByMonth change -> update the view
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void textBoxTimeByMonth_TextChanged(object sender, EventArgs e)
         {
             this.UpdateAllFields();
         }
 
+        /// <summary>
+        /// When listBoxPeriodicity change the enum periodicity class change too
+        /// And update the view
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void listBoxPeriodicity_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -286,16 +305,12 @@ namespace WFA_Loan
             }
         }
 
-        private void textBoxPeriodicity_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton7_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
+        /// <summary>
+        /// When groupBoxInterestRate change the customerLoan.PercentageRate change too
+        /// And update the view
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void groupBoxInterestRate_Enter(object sender, EventArgs e)
         {
             if (radioButton7.Checked)
@@ -314,9 +329,5 @@ namespace WFA_Loan
             this.UpdateAllFields();
         }
 
-        private void labelRefund_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

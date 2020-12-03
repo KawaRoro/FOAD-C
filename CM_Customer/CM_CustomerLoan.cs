@@ -15,6 +15,9 @@ namespace CM_CustomerLoan
         private Periodicity periodicity;
         private double percentageRate;
 
+        /// <summary>
+        /// Init Customer loan with default informations
+        /// </summary>
         public CustomerLoan()
         {
             this.name = "";
@@ -24,6 +27,14 @@ namespace CM_CustomerLoan
             this.percentageRate = 7;
         }
 
+        /// <summary>
+        /// Init Customer loan with advanced informations
+        /// </summary>
+        /// <param name="_name"></param>
+        /// <param borrowCapital="_borrowCapital"></param>
+        /// <param timeInMonth="_timeInMonth"></param>
+        /// <param periodicity="_periodicity"></param>
+        /// <param percentageRate="_percentageRate"></param>
         public CustomerLoan(string _name, float _borrowCapital, int _timeInMonth, Periodicity _periodicity, double _percentageRate)
         {
             this.name = _name;
@@ -33,31 +44,36 @@ namespace CM_CustomerLoan
             this.percentageRate = _percentageRate;
         }
 
-        //public string Name { get => name; set => name = value; }
+        /// <summary>
+        /// Getter and setter of each element
+        /// </summary>
         public string Name { get { return this.name; } set { this.name = value; } }
         public float BorrowCapital { get { return this.borrowCapital; } set { this.borrowCapital = value; } }
         public int TimeInMonth { get { return this.timeInMonth; } set { this.timeInMonth = value; } }
         public Periodicity Periodicity { get { return this.periodicity; } set { this.periodicity = value; } }
         public double PercentageRate { get { return this.percentageRate; } set { this.percentageRate = value; } }
 
+        /// <summary>
+        /// Number of refund for a loan 
+        /// </summary>
         public int NumberOfRefund()
         {
             return this.timeInMonth / Convert.ToInt32(this.periodicity);
         }
 
+        /// <summary>
+        /// Amount of each step -> each month usually
+        /// </summary>
         public double AmountOfEachSteps()
         {
-            /*int numberOfRefund = this.NumberOfRefund();
-            double rate = this.percentageRate / (12 / Convert.ToInt32(this.periodicity)) / 100; //  / 100
-            return this.borrowCapital * (rate / (1 - Math.Pow(1 + rate, -numberOfRefund)));*/
-
             double rate = this.percentageRate / 100 / 12 * (int)this.periodicity;
             float repaymentNumber = NumberOfRefund();
             return (float)(this.borrowCapital * (rate / (1 - Math.Pow(1 + rate, -repaymentNumber))));
-
-
         }
 
+        /// <summary>
+        /// Debug with to String function override
+        /// </summary>
         public override string ToString()
         {
             return "Name = " + this.name + ", borrowCapital = " + this.borrowCapital;

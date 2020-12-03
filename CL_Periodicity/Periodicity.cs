@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CL_Periodicity
 {
+    /// <summary>
+    /// Enumeration of periodicity
+    /// </summary>
     public enum Periodicity
     {
         Mensuel = 1,

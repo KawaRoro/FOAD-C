@@ -155,7 +155,6 @@ namespace WFA_Loan
             this.radioButton7.Tag = "7";
             this.radioButton7.Text = "7%";
             this.radioButton7.UseVisualStyleBackColor = true;
-            this.radioButton7.CheckedChanged += new System.EventHandler(this.radioButton7_CheckedChanged);
             // 
             // buttonSave
             // 
@@ -214,7 +213,6 @@ namespace WFA_Loan
             this.labelRefund.Size = new System.Drawing.Size(186, 25);
             this.labelRefund.TabIndex = 11;
             this.labelRefund.Text = "remboursement(s)";
-            this.labelRefund.Click += new System.EventHandler(this.labelRefund_Click);
             // 
             // labelAmount
             // 
