@@ -88,7 +88,7 @@
       <Project>{f8e060e3-2936-485e-8eec-ee7dac49f7b9}</Project>
       <Name>CL_Periodicity</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CM_Customer\CM_CustomerLoan.csproj">
+    <ProjectReference Include="..\CM_CustomerLoan\CM_CustomerLoan.csproj">
       <Project>{c18fe617-def5-424a-b1f3-dc81ed48d774}</Project>
       <Name>CM_CustomerLoan</Name>
     </ProjectReference>
